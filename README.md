@@ -26,14 +26,13 @@ The **Akan Name Generator** is a simple web application that assigns users an Ak
 
 ## How It Works
 
-## 📄 License
-This project is licensed under the MIT License.
-
 1. The user enters their date of birth and selects their gender.
 2. The app calculates the day of the week using JavaScript.
 3. It then maps the day and gender to the appropriate Akan name.
 4. The name is displayed on the screen with the day of the week.
-
+   
+## License
+This project is licensed under the MIT License.
 ### Akan Names Reference
 
 | Day       | Male Name | Female Name |
