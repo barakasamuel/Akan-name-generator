@@ -8,7 +8,7 @@ document.getElementById('akanForm').addEventListener('submit', function (e) {
   
     const resultDiv = document.getElementById('result');
   
-    // Validate gender selection
+    
     if (!genderInput) {
       resultDiv.textContent = "Please select your gender.";
       return;
@@ -16,7 +16,7 @@ document.getElementById('akanForm').addEventListener('submit', function (e) {
   
     const gender = genderInput.value;
   
-    // Validate date
+    
     const date = new Date(year, month - 1, day);
     if (
       date.getDate() !== day ||
@@ -27,7 +27,7 @@ document.getElementById('akanForm').addEventListener('submit', function (e) {
       return;
     }
   
-    const dayIndex = date.getDay(); // Sunday = 0, Saturday = 6
+    const dayIndex = date.getDay();
   
     const maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
     const femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
