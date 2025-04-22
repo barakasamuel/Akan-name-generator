@@ -5,7 +5,7 @@ The **Akan Name Generator** is a simple web application that gives liveware an A
 ##  Contents
 
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](programing languages(tech)used)
 - [How It Works](#how-it-works)
 - [Setup & Installation](#setup--installation)
 - [Usage](#usage)
@@ -18,7 +18,7 @@ The **Akan Name Generator** is a simple web application that gives liveware an A
 - Display your corresponding Akan name.
 - Simple and responsive user interface.
 
-## Technologies Used
+## programming languages used(tech)
 
 - HTML
 - CSS
