@@ -41,12 +41,12 @@ This project is licensed under the Apache License.
 
 | Day       | Male Name  Female Name |
 |-----------|----------|-------------|
-| Sunday     Kwasi      Akosua      |
-| Monday     Kwadwo     Adwoa       |
-| Tuesday    Kwabena    Abenaa      |
-| Wednesday  Kwaku      Akua        |
-| Thursday   Yaw        Yaa         |
-| Friday     Kofi       Afua        |
-| Saturday   Kwame      Ama         |
+| Sunday     Kwasi   ,   Akosua      |
+| Monday     Kwadwo   ,  Adwoa       |
+| Tuesday    Kwabena   , Abenaa      |
+| Wednesday  Kwaku   ,   Akua        |
+| Thursday   Yaw     ,   Yaa         |
+| Friday     Kofi   ,    Afua        |
+| Saturday   Kwame  ,    Ama         |
 
  https://github.com/your-barakasamuel/akan-generator.git
