@@ -42,10 +42,10 @@ This project is licensed under the Apache License.
 | Day       | Male Name , Female Name |
 
 
-| Sunday       male Kwasi   ,  female Akosua      |
+| Sunday   =    male Kwasi   ,  female Akosua      |
 
 
-| Monday       male Kwadwo   ,  female Adwoa       |
+| Monday    =   male Kwadwo   ,  female Adwoa       |
 
 
 | Tuesday      male Kwabena   , female Abenaa      |
