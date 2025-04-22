@@ -16,7 +16,7 @@ The **Akan Name Generator** is a simple web application that gives liveware an A
 - Input your birth date and gender.
 - Automatically calculate the day of the week you were born.
 - Display your corresponding Akan name.
-- Simple and responsive user interface.
+- clear and elaborative user interface.
 
 ## programming languages used(tech)
 
