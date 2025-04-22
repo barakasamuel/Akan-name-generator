@@ -7,7 +7,7 @@ The **Akan Name Generator** is a simple web application that gives liveware an A
 - [Features](#features)
 - [Programing languages(tech)used](#programming-languages(tech)-used)
 - [How It Works](#how-it-works)
-- [Setup & Installation](#setup--installation)
+- [Methods of installing](#Methods-of-installing)
 - [Usage](#usage)
 - [License](#license)
 
