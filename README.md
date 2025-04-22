@@ -37,7 +37,7 @@ https://barakasamuel.github.io/Akan-name-generator/
 This project is licensed under the Apache License.
 
 
-### The Akan name with accordance with the day they were born
+## The Akan name with accordance with the day they were born
 
 | Day   =     Male Name , Female Name |
 
