@@ -22,9 +22,9 @@ https://barakasamuel.github.io/Akan-name-generator/
 
 ## programming languages used(tech)
 
-- HTML
-- CSS
-- JavaScript
+1 HTML
+2 CSS
+3 JavaScript
 
 ## How It Works
 
