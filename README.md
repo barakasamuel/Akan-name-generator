@@ -34,7 +34,7 @@ https://barakasamuel.github.io/Akan-name-generator/
 4. The name is displayed on the screen with the day of the week.
    
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 ### Akan Names Reference
 
 | Day       | Male Name | Female Name |
@@ -47,4 +47,4 @@ This project is licensed under the MIT License.
 | Friday    | Kofi      | Afua        |
 | Saturday  | Kwame     | Ama         |
 
-   git clone https://github.com/your-barakasamuel/akan-generator.git
+ https://github.com/your-barakasamuel/akan-generator.git
