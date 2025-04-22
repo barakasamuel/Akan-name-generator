@@ -39,7 +39,7 @@ This project is licensed under the Apache License.
 
 ### The Akan name with accordance with the day they were born
 
-| Day       | Male Name , Female Name |
+| Day   =     Male Name , Female Name |
 
 
 | Sunday   =    male Kwasi   ,  female Akosua      |
@@ -48,18 +48,18 @@ This project is licensed under the Apache License.
 | Monday    =   male Kwadwo   ,  female Adwoa       |
 
 
-| Tuesday      male Kwabena   , female Abenaa      |
+| Tuesday  =    male Kwabena   , female Abenaa      |
 
 
-| Wednesday     male Kwaku   ,  female Akua        |
+| Wednesday   =  male Kwaku   ,  female Akua        |
 
 
-| Thursday     male Yaw     ,  female Yaa         |
+| Thursday   =  male Yaw     ,  female Yaa         |
 
 
-| Friday       male Kofi   ,  female  Afua        |
+| Friday   =    male Kofi   ,  female  Afua        |
 
 
-| Saturday     male Kwame  ,  female  Ama         |
+| Saturday  =   male Kwame  ,  female  Ama         |
 
  https://github.com/your-barakasamuel/akan-generator.git
