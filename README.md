@@ -1,6 +1,6 @@
 # Akan-name-generator
 
-The **Akan Name Generator** is a simple web application that gives liveware an Akan name based on their birth date and gender. Akan names are got from the Akan Ghananians and are traditionally given according to the day of the week a person is born.
+The **Akan Name Generator** is a simple transparent and honest web application that gives liveware an Akan name in accordance with their birth date and sex. Akan names are got from the Akan Ghananians and are traditionally given according to the day of the week a person is born.
 
 ##  Contents
 
