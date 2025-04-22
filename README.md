@@ -11,6 +11,8 @@ The **Akan Name Generator** is a simple web application that gives liveware an A
 - [Usage](#usage)
 - [License](#license)
 
+https://barakasamuel.github.io/Akan-name-generator/
+
 ## Features
 
 - Input your birth date and gender.
